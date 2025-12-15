@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/srlanka/pm-mcp-workspace/mcp/kb/kb_mcp_server.py", line 6, in <module>
+    from mcp.server.fastmcp import FastMCP
+ModuleNotFoundError: No module named 'mcp'
